@@ -1,5 +1,4 @@
-- 👋 Hi, I’m BogomilaKatsarska
-- 👀 I’m interested in Web App Projects
-- 🌱 I’m currently learning Python Web at SoftUni
-- 💞️ I’m looking to collaborate on Python Web App Projects
+- 👋 Hi, I am BogomilaKatsarska
+- 🌱 I’m currently learning Django REST Framework at Udemy
+- 💞👀 I’m looking to collaborate on Python Web App Projects
 - 📫 How to reach me : https://bg.linkedin.com/in/bogomila-katsarska-471073158 

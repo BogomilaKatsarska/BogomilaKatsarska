@@ -1,5 +1,5 @@
 - 👋 Hi, I am Bogomila Katsarska
-- 🌱 I’m currently learning JS and Django ORM at SoftUni
+- 🌱 I’m currently learning JS at SoftUni
 - 💡  Next step: Django REST Framework at Udemy
 - 👀 I’m looking to collaborate on Python Web App Projects
 - 📫 How to reach me: https://bg.linkedin.com/in/bogomila-katsarska-471073158

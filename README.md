@@ -1,6 +1,5 @@
 - 👋 Hi, I am Bogomila Katsarska
 - 🌱 I’m currently learning Tkinter 
-- 💡  Next step: Docker Mastery: with Kubernetes +Swarm from a Docker Captain at Udemy
 - 👀 Highly motivated with a strong passion for advancing in IT world with Python
 - 📫 How to reach me: https://bg.linkedin.com/in/bogomila-katsarska-471073158
  

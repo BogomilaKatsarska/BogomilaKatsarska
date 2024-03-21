@@ -1,5 +1,5 @@
 - 👋 Hi, I am Bogomila Katsarska
-- 🌱 I’m currently learning Tkinter 
+- 🌱 I’m currently developing Django Application
 - 👀 Highly motivated with a strong passion for advancing in IT world with Python
 - 📫 How to reach me: https://bg.linkedin.com/in/bogomila-katsarska-471073158
  
